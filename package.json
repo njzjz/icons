@@ -1,0 +1,19 @@
+{
+  "name": "@njzjz/icons",
+  "version": "0.0.2",
+  "description": "njzjz's icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njzjz/icons.git"
+  },
+  "author": "Jinzhe Zeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njzjz/icons/issues"
+  },
+  "homepage": "https://github.com/njzjz/icons#readme"
+}
